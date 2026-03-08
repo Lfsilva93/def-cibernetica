@@ -1,2 +1,2 @@
 # def-cibernetica
-Repositorio de Atividades de Defesa Cibernetica
+Repositorio de atividades para defesa cibernetica
